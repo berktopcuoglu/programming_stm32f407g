@@ -48,3 +48,10 @@ Finished building: default.size.stdout
  
 Finished building: LED_BLINKING.list
  
+21:29:25 **** Incremental Build of configuration Debug for project LED_BLINKING ****
+make -j8 all 
+arm-none-eabi-size  LED_BLINKING.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6036	     20	   1572	   7628	   1dcc	LED_BLINKING.elf
+Finished building: default.size.stdout
+ 

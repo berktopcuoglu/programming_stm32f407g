@@ -733,3 +733,39 @@
 2024-08-26 21:05:59,709 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 1748mS.
 2024-08-26 21:05:59,710 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
 2024-08-26 21:05:59,714 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
+2024-08-26 21:24:11,406 [INFO] Gpio:277 - dependency for GPIO [RCC, SYS]
+2024-08-26 21:24:15,089 [INFO] Gpio:277 - dependency for GPIO [RCC, SYS]
+2024-08-26 21:25:11,384 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 869100944 Bytes (1073741824)
+2024-08-26 21:25:12,792 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 935161232 Bytes (1073741824)
+2024-08-26 21:25:12,994 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 684779744 Bytes (1073741824)
+2024-08-26 21:25:13,190 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-08-26 21:25:13,190 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-08-26 21:25:13,190 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-08-26 21:25:13,190 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-08-26 21:25:13,192 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.14.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.10.0.202311202037\\db\
+2024-08-26 21:25:13,341 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\MXTmpFiles\license.tmp_save
+2024-08-26 21:25:13,484 [INFO] CodeEngine:279 - Generated code: C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\MXTmpFiles\license.tmp
+2024-08-26 21:25:13,549 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\Core\Src\gpio.c_save
+2024-08-26 21:25:13,715 [INFO] CodeEngine:279 - Generated code: C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\Core\Src\gpio.c
+2024-08-26 21:25:13,722 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\Core\Inc\gpio.h_save
+2024-08-26 21:25:13,815 [INFO] CodeEngine:279 - Generated code: C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\Core\Inc\gpio.h
+2024-08-26 21:25:13,844 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\Core\Src\stm32f4xx_it.c_save
+2024-08-26 21:25:13,999 [INFO] CodeEngine:279 - Generated code: C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\Core\Src\stm32f4xx_it.c
+2024-08-26 21:25:14,008 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\Core\Inc\stm32f4xx_it.h_save
+2024-08-26 21:25:14,100 [INFO] CodeEngine:279 - Generated code: C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\Core\Inc\stm32f4xx_it.h
+2024-08-26 21:25:14,124 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\Core\Src\stm32f4xx_hal_msp.c_save
+2024-08-26 21:25:14,220 [INFO] CodeEngine:279 - Generated code: C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\Core\Src\stm32f4xx_hal_msp.c
+2024-08-26 21:25:14,224 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\MXTmpFiles\system.tmp_save
+2024-08-26 21:25:14,308 [INFO] CodeEngine:279 - Generated code: C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\MXTmpFiles\system.tmp
+2024-08-26 21:25:14,329 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-08-26 21:25:14,422 [INFO] CodeEngine:335 - Generated code: C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\Core\Inc\stm32f4xx_hal_conf.h
+2024-08-26 21:25:14,471 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\Core\Inc\main.h_save
+2024-08-26 21:25:14,591 [INFO] CodeEngine:279 - Generated code: C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\Core\Inc\main.h
+2024-08-26 21:25:14,604 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\Core\Src\main.c_save
+2024-08-26 21:25:14,693 [INFO] CodeEngine:279 - Generated code: C:\Users\Berk\Documents\Programming\stm32f407g\LED_BLINKING\Core\Src\main.c
+2024-08-26 21:25:15,278 [INFO] ProjectBuilder:3076 - Time for Copy HAL[1] : 184mS.
+2024-08-26 21:25:15,281 [INFO] ProjectBuilder:4485 - Project Generator version: 4.2.0-B44
+2024-08-26 21:25:15,576 [INFO] ConfigFileManager:1495 - The Die is : DIE413
+2024-08-26 21:25:17,356 [INFO] ProjectBuilder:4747 - Time for Generating toolchain IDE Files: 2075mS.
+2024-08-26 21:25:17,357 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 1mS.
+2024-08-26 21:25:17,369 [INFO] ProjectBuilder:2947 - Time for Copy CMSIS : 0mS.
