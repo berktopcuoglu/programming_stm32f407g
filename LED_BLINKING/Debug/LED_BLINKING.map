@@ -2997,17 +2997,17 @@ LOAD C:/ST/STM32CubeIDE_1.14.1/STM32CubeIDE/plugins/com.st.stm32cube.ide.mcu.ext
  .debug_macro   0x000000000001ebe8      0x1b6 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
  .debug_macro   0x000000000001ed9e      0x1d4 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
 
-.debug_line     0x0000000000000000     0x54ee
+.debug_line     0x0000000000000000     0x54ea
  .debug_line    0x0000000000000000      0x714 ./Core/Src/gpio.o
- .debug_line    0x0000000000000714      0x79e ./Core/Src/main.o
- .debug_line    0x0000000000000eb2      0x706 ./Core/Src/stm32f4xx_hal_msp.o
- .debug_line    0x00000000000015b8      0x7c8 ./Core/Src/stm32f4xx_it.o
- .debug_line    0x0000000000001d80      0x787 ./Core/Src/system_stm32f4xx.o
- .debug_line    0x0000000000002507       0x7a ./Core/Startup/startup_stm32f407vgtx.o
- .debug_line    0x0000000000002581      0x9ed ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
- .debug_line    0x0000000000002f6e      0xcb9 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
- .debug_line    0x0000000000003c27      0xb61 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
- .debug_line    0x0000000000004788      0xd66 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .debug_line    0x0000000000000714      0x79a ./Core/Src/main.o
+ .debug_line    0x0000000000000eae      0x706 ./Core/Src/stm32f4xx_hal_msp.o
+ .debug_line    0x00000000000015b4      0x7c8 ./Core/Src/stm32f4xx_it.o
+ .debug_line    0x0000000000001d7c      0x787 ./Core/Src/system_stm32f4xx.o
+ .debug_line    0x0000000000002503       0x7a ./Core/Startup/startup_stm32f407vgtx.o
+ .debug_line    0x000000000000257d      0x9ed ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .debug_line    0x0000000000002f6a      0xcb9 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .debug_line    0x0000000000003c23      0xb61 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+ .debug_line    0x0000000000004784      0xd66 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
 
 .debug_str      0x0000000000000000    0xbc29f
  .debug_str     0x0000000000000000    0xbacf1 ./Core/Src/gpio.o
